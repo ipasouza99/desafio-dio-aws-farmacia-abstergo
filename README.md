@@ -13,7 +13,9 @@ Abstergo Industries — empresa fictícia do setor farmacêutico, atuando como h
 ## Data
 19/02/2026
  ##
-Objetivo
+
+# Objetivo
+
 Explicar, de forma acessível para um gestor não técnico, como três serviços da AWS podem ajudar a empresa a:
 
 * reduzir custos com infraestrutura e manutenção
