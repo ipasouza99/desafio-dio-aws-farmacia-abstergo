@@ -25,10 +25,10 @@ Explicar, de forma acessível para um gestor não técnico, como três serviços
 ##
 # Entregáveis
 ## Relatório principal (proposta completa):
-relatorio.md
+[relatorio.md](./relatorio.md)
 
 ## Arquitetura (visão simplificada):
-arquitetura.md
+[arquitetura.md](./arquitetura.md)
 ##
 **Serviços AWS abordados**
 *  **Amazon S3** — armazenamento de arquivos e documentos (NF-e, PDFs, relatórios etc.)
