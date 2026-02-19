@@ -1,10 +1,11 @@
 # Desafio DIO — Implementação de Serviços AWS
-Abstergo Industries (Hub de Distribuição Farmacêutica — cenário fictício)
+## Abstergo Industries (Hub de Distribuição Farmacêutica — cenário fictício)
+
 Este repositório reúne a documentação do desafio do bootcamp. O trabalho consiste em apresentar uma proposta inicial de adoção de 3 serviços da AWS, priorizando redução de custos e ganho de eficiência na operação.
 
 Observação: este é um desafio documental (análise e proposta). Não exige a implementação dos serviços na AWS.
 
-Empresa (cenário do desafio)
+## Empresa (cenário do desafio)
 Abstergo Industries — empresa fictícia do setor farmacêutico, atuando como hub de distribuição (B2B): recebe produtos de fabricantes/fornecedores e distribui para redes de farmácias e parceiros.
 
 ## Responsável
